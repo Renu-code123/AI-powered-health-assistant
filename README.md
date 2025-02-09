@@ -1,17 +1,21 @@
 # AI-powered-health-assistant
 AI-Powered Healthcare Chatbot 🤖💊
+<br>
 This project is an AI-driven healthcare chatbot designed to provide real-time medical query resolution using Hugging Face transformers, NLP, and Streamlit. The chatbot helps users by offering:
 <br>
 ✅ General health advice
+<br>
 ✅ Medication recommendations
+<br>
 ✅ Consultation suggestions
 <br>
 
 🚀 Features
-🔹 Natural Language Processing (NLP) for understanding medical queries
-🔹 Real-time interaction via a user-friendly Streamlit interface
-🔹 Feedback system to improve chatbot responses over time
-🔹 Open-source & easily deployable
+<br>
+🔹 Natural Language Processing (NLP) for understanding medical queries<br>
+🔹 Real-time interaction via a user-friendly Streamlit interface<br>
+🔹 Feedback system to improve chatbot responses over time<br>
+🔹 Open-source & easily deployable<br>
 
 🛠️ Tech Stack
 Python 🐍
