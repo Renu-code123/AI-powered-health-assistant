@@ -17,23 +17,23 @@ This project is an AI-driven healthcare chatbot designed to provide real-time me
 🔹 Feedback system to improve chatbot responses over time<br>
 🔹 Open-source & easily deployable<br>
 
-🛠️ Tech Stack
-Python 🐍
-Hugging Face Transformers 🤗
-NLTK for NLP processing
-TensorFlow & TF-Keras for model handling
-Streamlit for web-based deployment
-📌 Future Enhancements
-🔸 Multilingual support for global accessibility
-🔸 Voice-based interaction for better usability
-🔸 Improved accuracy with larger transformer models
-🔸 Cloud-based deployment for scalability
+🛠️ Tech Stack<br>
+Python 🐍<br>
+Hugging Face Transformers 🤗<br>
+NLTK for NLP processing<br>
+TensorFlow & TF-Keras for model handling<br>
+Streamlit for web-based deployment<br>
+📌 Future Enhancements<br>
+🔸 Multilingual support for global accessibility<br>
+🔸 Voice-based interaction for better usability<br>
+🔸 Improved accuracy with larger transformer models<br>
+🔸 Cloud-based deployment for scalability<br>
 
-📂 How to Use
-1️⃣ Clone the repository
-2️⃣ Install the required dependencies
-3️⃣ Run the chatbot using Streamlit
-4️⃣ Enter a medical query and receive AI-driven responses
+📂 How to Use<br>
+1️⃣ Clone the repository<br>
+2️⃣ Install the required dependencies<br>
+3️⃣ Run the chatbot using Streamlit<br>
+4️⃣ Enter a medical query and receive AI-driven responses<br>
 
-📌 Contribution & Feedback
+📌 Contribution & Feedback<br>
 We welcome contributions! Feel free to fork the repo, improve the chatbot, and submit a pull request. User feedback helps us refine and enhance this AI healthcare assistant.
